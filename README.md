@@ -1,7 +1,7 @@
 # Virtual-Private-Network
 
 <p align="center">
-<img src="https://i.imgur.com/xuPnuuE.png" height="80%" width="80%" alt="VPN"/>
+<img src="https://i.imgur.com/VHXGM1r.png" height="80%" width="80%" alt="VPN"/>
 </p>
 
 <h1>Virtual Private Networks</h1>
