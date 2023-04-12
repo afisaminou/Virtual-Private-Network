@@ -29,7 +29,7 @@ First step is to create a virtual machine (VM) in Azure. If you don't know how t
 
 <p></p>
 
-[Tutorial](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
+[Tutorial](https://github.com/afisaminou/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
 
 <p>
 <img src="https://i.imgur.com/ZgmrcLR.png" height="80%" width="80%" alt="1."/>
