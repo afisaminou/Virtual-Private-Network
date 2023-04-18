@@ -1,7 +1,7 @@
 # Virtual-Private-Network
 
 <p align="center">
-<img src="https://i.imgur.com/VHXGM1r.png" height="80%" width="80%" alt="VPN"/>
+<img src="https://i.imgur.com/x6h4mfF.png" height="80%" width="80%" alt="VPN"/>
 </p>
 
 <h1>Virtual Private Networks</h1>
@@ -58,23 +58,23 @@ Take note of the IP address and where it's located. The IP address for my VM was
 </p>
 
 <p>
-<img src="https://i.imgur.com/rHxCsQr.png" height="80%" width="80%" alt="5."/>
+<img src="https://i.imgur.com/vAMmQeg.png" height="80%" width="80%" alt="5."/>
 </p>
 
 Once ProtonVPN is downloaded and installed, open the application. Then make a connection. I chose to connect to Japan. 
 
 <p>
-<img src="https://i.imgur.com/3qKOCYR.png" height="80%" width="80%" alt="6."/>
+<img src="https://i.imgur.com/Pc2XBOQ.png" height="80%" width="80%" alt="6."/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/ANBBgjg.png" height="80%" width="80%" alt="7."/>
+<img src="https://i.imgur.com/f7p0ScE.png" height="80%" width="80%" alt="7."/>
 </p>
 
 Once you're connected to ProtonVPN, go back to WhatIsMyAddress and look at the changes. Notice that the IP address is different and the location. (138.199.21.217 in Tokyo, Japan).
 
 <p>
-<img src="https://i.imgur.com/MxeND3O.png" height="80%" width="80%" alt="8."/>
+<img src="https://i.imgur.com/8IeOTOE.png" height="80%" width="80%" alt="8."/>
 </p>
 
 Congratulations, you now know what a VPN is and how it works! You also have ProtonVPN for free unless you want to upgrade. VPNs are vital if you want to protect your data. Especially if you are doing work in another country or in public, it's probably a good idea to use a VPN. Thank you for checking out my tutorial!
